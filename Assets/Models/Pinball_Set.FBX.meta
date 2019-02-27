@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 4eacd663020dea341a44afb96d95f841
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Floaty Spawner
+    100002: Goal1
+    100004: Goal2
+    100006: //RootNode
+    100008: Post
+    100010: Post001
+    100012: Ramp
+    100014: Section
+    100016: Section-topR
+    100018: Section001
+    100020: Section002
+    100022: Section003
+    100024: Section004
+    100026: Section005
+    100028: Section006
+    100030: Section007
+    100032: Section008
+    100034: Section009
+    100036: Section010
+    100038: Setion-topL
+    100040: spawnFX
+    100042: Straight Bumper
+    100044: Straight Bumper 1
+    100046: Top
+    400000: Floaty Spawner
+    400002: Goal1
+    400004: Goal2
+    400006: //RootNode
+    400008: Post
+    400010: Post001
+    400012: Ramp
+    400014: Section
+    400016: Section-topR
+    400018: Section001
+    400020: Section002
+    400022: Section003
+    400024: Section004
+    400026: Section005
+    400028: Section006
+    400030: Section007
+    400032: Section008
+    400034: Section009
+    400036: Section010
+    400038: Setion-topL
+    400040: spawnFX
+    400042: Straight Bumper
+    400044: Straight Bumper 1
+    400046: Top
+    2100000: 'Material #28'
+    2300000: Floaty Spawner
+    2300002: Goal1
+    2300004: Goal2
+    2300006: //RootNode
+    2300008: Post
+    2300010: Post001
+    2300012: Ramp
+    2300014: Section
+    2300016: Section-topR
+    2300018: Section001
+    2300020: Section002
+    2300022: Section003
+    2300024: Section004
+    2300026: Section005
+    2300028: Section006
+    2300030: Section007
+    2300032: Section008
+    2300034: Section009
+    2300036: Section010
+    2300038: Setion-topL
+    2300040: spawnFX
+    2300042: Straight Bumper
+    2300044: Straight Bumper 1
+    2300046: Top
+    3300000: Floaty Spawner
+    3300002: Goal1
+    3300004: Goal2
+    3300006: //RootNode
+    3300008: Post
+    3300010: Post001
+    3300012: Ramp
+    3300014: Section
+    3300016: Section-topR
+    3300018: Section001
+    3300020: Section002
+    3300022: Section003
+    3300024: Section004
+    3300026: Section005
+    3300028: Section006
+    3300030: Section007
+    3300032: Section008
+    3300034: Section009
+    3300036: Section010
+    3300038: Setion-topL
+    3300040: spawnFX
+    3300042: Straight Bumper
+    3300044: Straight Bumper 1
+    3300046: Top
+    4300000: Base
+    4300002: Top
+    4300004: Section-topR
+    4300006: Setion-topL
+    4300008: Straight Bumper
+    4300010: Straight Bumper
+    4300012: Section010
+    4300014: Section009
+    4300016: Section008
+    4300018: Section007
+    4300020: Section006
+    4300022: Section005
+    4300024: Section004
+    4300026: Section003
+    4300028: Section002
+    4300030: Section001
+    4300032: Section
+    4300034: Ramp
+    4300036: Post001
+    4300038: Goal1
+    4300040: Post
+    4300042: Goal2
+    4300044: Floaty Spawner
+    4300046: spawnFX
+    6400000: Floaty Spawner
+    6400002: Goal1
+    6400004: Goal2
+    6400006: //RootNode
+    6400008: Post
+    6400010: Post001
+    6400012: Ramp
+    6400014: Section
+    6400016: Section-topR
+    6400018: Section001
+    6400020: Section002
+    6400022: Section003
+    6400024: Section004
+    6400026: Section005
+    6400028: Section006
+    6400030: Section007
+    6400032: Section008
+    6400034: Section009
+    6400036: Section010
+    6400038: Setion-topL
+    6400040: spawnFX
+    6400042: Straight Bumper
+    6400044: Straight Bumper 1
+    6400046: Top
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: ce9505600d0a0594db98fe9626d127c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
