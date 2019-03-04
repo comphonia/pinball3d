@@ -9,16 +9,12 @@ public class Paddle : MonoBehaviour {
 
     private void Awake()
     {
-        Animator animator = GetComponent<Animator>();
-        Debug.Log(animator); 
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        Debug.Log(animator); 
-        if(Input.GetButtonDown(buttonToPressName))
-
-        animator.SetBool("Up", true);
+        animator.SetBool("Up", Input.GetButton(buttonToPressName));
     }
 
 }

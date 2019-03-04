@@ -19,7 +19,7 @@ public class Score : MonoBehaviour {
         }
     }
 
-    [SerializeField] TextMeshProUGUI scoreUIText;
+    [SerializeField] TextMeshProUGUI[] scoreUITexts;
 
     private void Awake()
     {
@@ -36,7 +36,10 @@ public class Score : MonoBehaviour {
 
     static void UpdateUI()
     {
-        instance.scoreUIText.text = scoreAmount.ToString(); 
+        foreach (var scoreUIText in instance.scoreUITexts)
+        {
+            scoreUIText.text = scoreAmount.ToString();
+        }
     }
 
 
